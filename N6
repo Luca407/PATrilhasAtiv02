@@ -1,6 +1,6 @@
 using System;
 
-namespace DivisaoEntreDoisNumeros
+namespace RaizQuadrada
 {
     class Program
     {
@@ -12,7 +12,7 @@ namespace DivisaoEntreDoisNumeros
            	
            	double raizQuadrada = Math.Sqrt(x);
 
-			Console.WriteLine("A raiz quadrada de " + x + " é: " + raizQuadrada);
+		Console.WriteLine("A raiz quadrada de " + x + " é: " + raizQuadrada);
            	Console.ReadKey(true);
         }
     }
