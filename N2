@@ -1,6 +1,6 @@
 using System;
 
-namespace comiquemleu
+namespace MultiEntreDoisNumeros
 {
     class Program
     {
