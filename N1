@@ -1,6 +1,6 @@
 using System;
 
-namespace comiquemleu
+namespace SomaEntreDoisNumeros
 {
     class Program
     {
