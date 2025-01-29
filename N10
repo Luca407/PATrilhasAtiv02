@@ -12,7 +12,7 @@ namespace Resto
            	
            	double resto = x % 2;
            	
-           	Console.WriteLine("A multiplicação de " + x + " é: " + resto);
+           	Console.WriteLine("O restante da divisão do número " + x + " é: " + resto);
            	Console.ReadKey(true);
         }
     }
