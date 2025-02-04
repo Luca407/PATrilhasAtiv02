@@ -1,7 +1,5 @@
 using System;
 
-namespace PotenciacaoEntreDoisNumeros
-{
     class Program
     {
         public static void Main(string[] args)
@@ -16,4 +14,3 @@ namespace PotenciacaoEntreDoisNumeros
            	Console.ReadKey(true);
         }
     }
-}
