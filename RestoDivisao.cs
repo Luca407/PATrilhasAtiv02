@@ -1,7 +1,5 @@
 using System;
 
-namespace Resto
-{
     class Program
     {
         public static void Main(string[] args)
@@ -16,4 +14,3 @@ namespace Resto
            	Console.ReadKey(true);
         }
     }
-}
