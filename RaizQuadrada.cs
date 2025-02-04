@@ -1,7 +1,5 @@
 using System;
 
-namespace RaizQuadrada
-{
     class Program
     {
         public static void Main(string[] args)
@@ -16,4 +14,4 @@ namespace RaizQuadrada
            	Console.ReadKey(true);
         }
     }
-}
+
