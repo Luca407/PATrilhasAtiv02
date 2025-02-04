@@ -1,7 +1,5 @@
 using System;
 
-namespace SomaEntreDoisNumeros
-{
     class Program
     {
         public static void Main(string[] args)
@@ -19,4 +17,3 @@ namespace SomaEntreDoisNumeros
            	Console.ReadKey(true);
         }
     }
-}
