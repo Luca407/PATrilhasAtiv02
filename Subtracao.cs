@@ -1,7 +1,5 @@
 using System;
 
-namespace SubtracaoInvertidaEntreDoisNumeros
-{
     class Program
     {
         public static void Main(string[] args)
@@ -20,4 +18,3 @@ namespace SubtracaoInvertidaEntreDoisNumeros
            	Console.ReadKey(true);
         }
     }
-}
