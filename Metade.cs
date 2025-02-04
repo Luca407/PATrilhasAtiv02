@@ -1,7 +1,5 @@
 using System;
 
-namespace DivisaoEntreDoisNumeros
-{
     class Program
     {
         public static void Main(string[] args)
@@ -16,4 +14,3 @@ namespace DivisaoEntreDoisNumeros
            	Console.ReadKey(true);
         }
     }
-}
